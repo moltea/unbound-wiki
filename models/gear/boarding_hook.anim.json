@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"sway":{"animation_length":2.6,"bones":{"claws":{"rotation":{"0.0":[0,0,0],"0.7":{"vector":[4,0,-3],"easing":"easeInOutSine"},"1.6":{"vector":[-3,0,4],"easing":"easeInOutSine"},"2.6":{"vector":[0,0,0],"easing":"easeInOutSine"}}}},"loop":true}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"idle":{"animation_length":1,"bones":{},"loop":true},"work":{"animation_length":6,"bones":{},"loop":true},"spin":{"animation_length":8,"bones":{"spin_holo":{"rotation":{"0.0":[0,0,0],"8.0":{"vector":[0,360,0],"easing":"linear"}}}},"loop":true}}}
